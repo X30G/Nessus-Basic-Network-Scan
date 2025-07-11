@@ -52,8 +52,8 @@ This setup isolates the vulnerable machine from the broader internet while allow
 ## 📸 Results & Deliverables
 
 Included in this repository:
-- 📄 **Scan Report** (PDF)
-- 🖼️ **Screenshots** of the Nessus scan process and findings
+- 📄 **Scan Report** (PDF) [Nessus Report](./Basic%20Net%20Scan.pdf/)
+- 🖼️ **Screenshots** of the Nessus scan process and findings [screenshots](./screenshots/)
 - 📝 **Setup notes** for replicating the environment
 
 ---
