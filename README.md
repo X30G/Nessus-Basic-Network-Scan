@@ -1,6 +1,6 @@
 # 🔍 Nessus Vulnerability Scan on Metasploitable3
 
-This project demonstrates a **basic network vulnerability scan** using [Tenable Nessus](https://www.tenable.com/products/nessus) against a vulnerable virtual machine, **Metasploitable3**, as the target. It’s designed to showcase the ability to identify, assess, and report on potential security issues in a controlled lab environment.
+This project demonstrates a **basic network vulnerability scan** using **Tenable Nessus 10.9.1** against a vulnerable virtual machine, **Metasploitable3**, as the target. It’s designed to showcase the ability to identify, assess, and report on potential security issues in a controlled lab environment.
 
 ## 🎯 Project Purpose
 
@@ -30,7 +30,7 @@ Target audience: **Recruiters**, **home lab enthusiasts**, and the broader **inf
 The lab consists of two VMs running inside **VirtualBox**:
 
 1. **Kali Linux (Nessus Installed)** – the scanner.
-2. **Metasploitable3** – the vulnerable target.
+2. **Metasploitable3** – the target.
 
 **Networking**:
 - **Host-Only Adapter** (`vboxnet0`) for direct communication between VMs.
@@ -52,7 +52,7 @@ This setup isolates the vulnerable machine from the broader internet while allow
 ## 📸 Results & Deliverables
 
 Included in this repository:
-- 📄 **Scan Report** (PDF or HTML)
+- 📄 **Scan Report** (PDF)
 - 🖼️ **Screenshots** of the Nessus scan process and findings
 - 📝 **Setup notes** for replicating the environment
 
@@ -71,8 +71,3 @@ While this lab uses **VirtualBox**, the scan can be replicated using any virtual
 This lab is for **educational and demonstration purposes only**. Never run vulnerability scans on systems you do not own or have explicit permission to test.
 
 ---
-
-## 🤝 Connect
-
-If you’re a recruiter or fellow cybersecurity enthusiast, feel free to connect or reach out! Always open to feedback and collaboration.
-
