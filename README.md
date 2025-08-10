@@ -43,7 +43,7 @@ This setup isolates the vulnerable machine from the broader internet while allow
 ## 🚀 Scan Details
 
 - **Nessus Template**: Basic Network Scan
-- **Target**: Metasploitable3 local IP (e.g., `192.168.56.101`)
+- **Target**: Metasploitable3 local IP (e.g., `x.x.x.x`)
 - **Port Range**: `1 - 65535` (full TCP port scan)
 - **Authentication**: None (unauthenticated scan)
 
@@ -62,7 +62,7 @@ Included in this repository:
 
 While this lab uses **VirtualBox**, the scan can be replicated using any virtualization platform that supports custom network adapters.
 
-> Ensure your scanner (Kali + Nessus) and target (Metasploitable3) are on the same host-only network.
+Ensure your scanner (Kali + Nessus) and target (Metasploitable3) are on the same host-only network.
 
 ---
 
