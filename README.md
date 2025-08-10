@@ -43,7 +43,7 @@ This setup isolates the vulnerable machine from the broader internet while allow
 ## 🚀 Scan Details
 
 - **Nessus Template**: Basic Network Scan
-- **Target**: Metasploitable3 local IP (e.g., `x.x.x.x`)
+- **Target**: Metasploitable3 local IP (e.g., `192.168.x.x`)
 - **Port Range**: `1 - 65535` (full TCP port scan)
 - **Authentication**: None (unauthenticated scan)
 
