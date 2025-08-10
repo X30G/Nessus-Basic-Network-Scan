@@ -1,6 +1,10 @@
 # 🔍 Nessus Vulnerability Scan on Metasploitable3
 
+![Tools & Platforms: Nessus, Metasploitable3, Kali Linux, VirtualBox](https://img.shields.io/badge/tools%20%26%20platforms-Nessus%2C%20Metasploitable3%2C%20Kali%20Linux%2C%20VirtualBox-blueviolet)
+
 This project demonstrates a **basic network vulnerability scan** using **Tenable Nessus 10.9.1** against a vulnerable virtual machine, **Metasploitable3**, as the target. It’s designed to showcase the ability to identify, assess, and report on potential security issues in a controlled lab environment.
+
+---
 
 ## 🎯 Project Purpose
 
